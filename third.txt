@@ -1,1 +1,1 @@
-This is the dummy third commit and now modified it as well
+Changes to third file

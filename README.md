@@ -1,3 +1,3 @@
 # git-demo
 
-#This is demo for CSS Only Accordian
+This is demo for CSS Only Accordian
